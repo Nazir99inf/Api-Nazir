@@ -1,11 +1,11 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "Api Nazir",
+  "version": "1.0.0",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
     "imageSrc": [
-      "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+      "https://telegra.ph/file/f7e5c660ada57f2d219ff-54a5429630c620b36f.jpg"
     ],
     "imageSize": {
       "mobile": "80%",
@@ -14,13 +14,9 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "Nazir"
   },
   "links": [
-    {
-      "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
-    },
     {
       "name": "Contact Me",
       "url": "https://wa.me/6285173370004"
@@ -28,7 +24,7 @@
   ],
   "categories": [
     {
-      "name": "AI (Artificial Intelligence)",
+      "name": "Ai",
       "items": [
         {
           "name": "LuminAI",
@@ -38,8 +34,7 @@
         {
           "name": "HydroMind",
           "desc": "Talk with hydromind",
-          "path": "/ai/hydromind?text=&model=",
-          "innerDesc": "See the list of supported AI models here: https://mind.hydrooo.web.id"
+          "path": "/ai/hydromind?text=&model="
         }
       ]
     },
@@ -54,8 +49,13 @@
       ]
     },
     {
-      "name": "Search Tools",
+      "name": "Tools",
       "items": [
+        {
+          "name": "Font",
+          "desc": "Text Style",
+          "path": "/tools/font?text="
+        },
         {
           "name": "YouTube",
           "desc": "Video search",
