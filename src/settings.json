@@ -2,8 +2,16 @@
   "name": "Api Nazir",
   "version": "1.0.0",
   "description": "Simple and Easy-to-Use API Documentation",
-  "header": {
-    "status": "Online!"
+    "header": {
+    "status": "Online!",
+    "imageSrc": [
+      "https://telegra.ph/file/f7e5c660ada57f2d219ff-54a5429630c620b36f.jpg"
+    ],
+    "imageSize": {
+      "mobile": "80%",
+      "tablet": "40%",
+      "desktop": "40%"
+    }
   },
   "apiSettings": {
     "creator": "Nazir"
