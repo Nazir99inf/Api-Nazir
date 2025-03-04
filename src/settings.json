@@ -38,6 +38,16 @@
         }
       ]
     },
+    { 
+      "name": "downloader",
+      "items": [
+        {
+          "name": "Tiktok Downloader",
+          "desc": "get more tiktok videos",
+          "path": "/downloader/tiktok?url="
+        }
+      ]
+    },
     {
       "name": "Random",
       "items": [
@@ -51,11 +61,6 @@
     {
       "name": "Tools",
       "items": [
-        {
-          "name": "Font",
-          "desc": "Text Style",
-          "path": "/tools/font?text="
-        },
         {
           "name": "YouTube",
           "desc": "Video search",
