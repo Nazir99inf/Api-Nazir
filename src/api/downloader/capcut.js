@@ -12,9 +12,9 @@ app.get('/downloader/capcut', async (req, res) => {
   const response = await fetch(url);
   const data = await response.text();
   const $ = cheerio.load(data);
-  let data { thumbnail: $("video").attr("poster"), video: $("video").attr("src") };
+  let matadata = { thumbnail: $("video").attr("poster"), video: $("video").attr("src") };
   
-            const result = data;
+            const result = matadata;
             res.status(200).json({
                 status: true,
                 result
