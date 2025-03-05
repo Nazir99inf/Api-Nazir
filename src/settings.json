@@ -75,7 +75,12 @@
           "name": "Jadianime",
           "desc": "Entacher Image To Anime",
           "path": "/tools/toanime?url="
-        }
+        },
+       {
+      "name": "Jadianime",
+       "desc": "Entacher Image To Anime",
+      "path": "/tools/carbon?text="
+      }
       ]
     }
   ]
