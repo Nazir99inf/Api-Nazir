@@ -42,6 +42,11 @@
       "name": "downloader",
       "items": [
         {
+          "name": "Facebook Downloader",
+          "desc": "get more Facebook",
+          "path": "/downloader/facebook?url="
+        },
+        {
           "name": "Tiktok Downloader",
           "desc": "get more tiktok videos",
           "path": "/downloader/tiktok?url="
