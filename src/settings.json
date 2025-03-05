@@ -48,7 +48,7 @@
         },
         {
           "name": "Capcut Dl",
-          "desc": "Talk with hydromind",
+          "desc": "Downloader Image And Video",
           "path": "/downloader/capcut?url="
         }
       ]
@@ -77,8 +77,8 @@
           "path": "/tools/toanime?url="
         },
        {
-      "name": "Jadianime",
-       "desc": "Entacher Image To Anime",
+      "name": "Carbon",
+       "desc": "Text For Programing",
       "path": "/tools/carbon?text="
       }
       ]
